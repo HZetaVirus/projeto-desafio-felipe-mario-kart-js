@@ -1,0 +1,13 @@
+{
+  "name": "simulador-mario-kart",
+  "version": "0.0.1",
+  "description": "Desafio simulador mario kart.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "echo \"Opening the simulator...\" && exit 0",
+    "start": "node src/index.js"
+  },
+  "author": "jeferson ribeiro",
+  "license": "ISC"
+}
